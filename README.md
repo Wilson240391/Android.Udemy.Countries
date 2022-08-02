@@ -17,4 +17,5 @@ And we will build everything in Kotlin, the shiny new language that Google recom
 https://sparkdigital.udemy.com/course/modernandroid/learn/lecture/27528208#overview
 
 
+![2022-08-02](https://user-images.githubusercontent.com/98188753/182431564-1d2e21ef-410f-40ed-b456-9e7a30822f65.png)
 
